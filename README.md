@@ -1,0 +1,1 @@
+This is a site designed for a baking unit. It is a design-only implementation with a navigation bar, products, product details, button with hovers and a footer.
